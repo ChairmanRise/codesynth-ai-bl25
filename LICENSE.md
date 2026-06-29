@@ -1,4 +1,4 @@
-# 
+# Léger ThreatEye configuration. Téléchargez et installez avec interface graphique et support Docker — rapide, sécurisé et facile à utiliser.
 
 
 
